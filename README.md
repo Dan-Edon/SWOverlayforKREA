@@ -7,3 +7,8 @@ Script looks for Solidworks but app name could be changed in script to look for 
 ctrl+shft+h - hides the overlay, press again to bring the overlay back when you're done editing. 
 
 ctrl+shft+e - exits the overlay, relaunch to bring it back. 
+
+install packages - 
+
+pywin32
+keyboards
